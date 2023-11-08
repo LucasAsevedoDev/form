@@ -49,7 +49,7 @@ button:hover {
     align-items: center;
     justify-content: center;
     background-color: rgb(25, 90, 148);
-    color: white;
+    color: whitesmoke;
 }
 
 @media screen and (max-width: 768px) {
